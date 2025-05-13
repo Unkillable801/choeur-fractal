@@ -1,0 +1,2901 @@
+[
+  {
+    "name": "Uriel",
+    "frequency": 114,
+    "waveform": "triangle",
+    "color": "hsl(0, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B0-0",
+    "position": {
+      "x": 10.0,
+      "y": 0.0,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Raphaël",
+    "frequency": 130,
+    "waveform": "sawtooth",
+    "color": "hsl(13, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B0-1",
+    "position": {
+      "x": 9.94,
+      "y": 3.07,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Gabriel",
+    "frequency": 150,
+    "waveform": "sawtooth",
+    "color": "hsl(26, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B0-2",
+    "position": {
+      "x": 8.91,
+      "y": 6.1,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Phanuel",
+    "frequency": 173,
+    "waveform": "sawtooth",
+    "color": "hsl(39, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B0-3",
+    "position": {
+      "x": 6.96,
+      "y": 8.77,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Sariel",
+    "frequency": 195,
+    "waveform": "sine",
+    "color": "hsl(52, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B0-4",
+    "position": {
+      "x": 4.2,
+      "y": 10.81,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Raguel",
+    "frequency": 215,
+    "waveform": "sine",
+    "color": "hsl(65, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B0-5",
+    "position": {
+      "x": 0.85,
+      "y": 11.97,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Remiel",
+    "frequency": 235,
+    "waveform": "triangle",
+    "color": "hsl(78, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B0-6",
+    "position": {
+      "x": -2.82,
+      "y": 12.08,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Satanail",
+    "frequency": 257,
+    "waveform": "sine",
+    "color": "hsl(91, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B0-7",
+    "position": {
+      "x": -6.46,
+      "y": 11.05,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Metatron",
+    "frequency": 274,
+    "waveform": "sawtooth",
+    "color": "hsl(104, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B0-8",
+    "position": {
+      "x": -9.73,
+      "y": 8.92,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Azazel",
+    "frequency": 292,
+    "waveform": "sine",
+    "color": "hsl(117, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B0-9",
+    "position": {
+      "x": -12.3,
+      "y": 5.81,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Shemyaza",
+    "frequency": 310,
+    "waveform": "triangle",
+    "color": "hsl(130, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B1-0",
+    "position": {
+      "x": -13.86,
+      "y": 1.98,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Kokabiel",
+    "frequency": 330,
+    "waveform": "square",
+    "color": "hsl(143, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B1-1",
+    "position": {
+      "x": -14.22,
+      "y": -2.27,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Baraqiel",
+    "frequency": 112,
+    "waveform": "sawtooth",
+    "color": "hsl(156, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B1-2",
+    "position": {
+      "x": -13.27,
+      "y": -6.55,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Arakiel",
+    "frequency": 132,
+    "waveform": "triangle",
+    "color": "hsl(169, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B1-3",
+    "position": {
+      "x": -11.03,
+      "y": -10.45,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Tamiel",
+    "frequency": 158,
+    "waveform": "sawtooth",
+    "color": "hsl(182, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B1-4",
+    "position": {
+      "x": -7.65,
+      "y": -13.6,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Ramiel",
+    "frequency": 179,
+    "waveform": "sine",
+    "color": "hsl(195, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B1-5",
+    "position": {
+      "x": -3.37,
+      "y": -15.64,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Daniel",
+    "frequency": 190,
+    "waveform": "square",
+    "color": "hsl(208, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B1-6",
+    "position": {
+      "x": 1.43,
+      "y": -16.34,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Chazaqiel",
+    "frequency": 219,
+    "waveform": "triangle",
+    "color": "hsl(221, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B1-7",
+    "position": {
+      "x": 6.35,
+      "y": -15.55,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Ezequeel",
+    "frequency": 239,
+    "waveform": "sine",
+    "color": "hsl(234, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B1-8",
+    "position": {
+      "x": 10.92,
+      "y": -13.29,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Araqiel",
+    "frequency": 250,
+    "waveform": "sine",
+    "color": "hsl(247, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B1-9",
+    "position": {
+      "x": 14.69,
+      "y": -9.69,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Batriel",
+    "frequency": 279,
+    "waveform": "sawtooth",
+    "color": "hsl(260, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B2-0",
+    "position": {
+      "x": 17.28,
+      "y": -5.03,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Basasael",
+    "frequency": 296,
+    "waveform": "triangle",
+    "color": "hsl(273, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B2-1",
+    "position": {
+      "x": 18.4,
+      "y": 0.31,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Ananel",
+    "frequency": 315,
+    "waveform": "triangle",
+    "color": "hsl(286, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B2-2",
+    "position": {
+      "x": 17.86,
+      "y": 5.86,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Turel",
+    "frequency": 334,
+    "waveform": "sawtooth",
+    "color": "hsl(299, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B2-3",
+    "position": {
+      "x": 15.66,
+      "y": 11.11,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Simapiel",
+    "frequency": 111,
+    "waveform": "sawtooth",
+    "color": "hsl(312, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B2-4",
+    "position": {
+      "x": 11.92,
+      "y": 15.56,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Yomiel",
+    "frequency": 136,
+    "waveform": "triangle",
+    "color": "hsl(325, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B2-5",
+    "position": {
+      "x": 6.93,
+      "y": 18.76,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Pythagore",
+    "frequency": 156,
+    "waveform": "square",
+    "color": "hsl(338, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B2-6",
+    "position": {
+      "x": 1.1,
+      "y": 20.37,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Einstein",
+    "frequency": 173,
+    "waveform": "square",
+    "color": "hsl(351, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B2-7",
+    "position": {
+      "x": -5.07,
+      "y": 20.17,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Lao Tseu",
+    "frequency": 194,
+    "waveform": "triangle",
+    "color": "hsl(4, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B2-8",
+    "position": {
+      "x": -11.01,
+      "y": 18.12,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Platon",
+    "frequency": 217,
+    "waveform": "square",
+    "color": "hsl(17, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B2-9",
+    "position": {
+      "x": -16.17,
+      "y": 14.32,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Nietzsche",
+    "frequency": 238,
+    "waveform": "triangle",
+    "color": "hsl(30, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B3-0",
+    "position": {
+      "x": -20.04,
+      "y": 9.07,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Hypatie",
+    "frequency": 256,
+    "waveform": "sine",
+    "color": "hsl(43, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B3-1",
+    "position": {
+      "x": -22.23,
+      "y": 2.79,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Marie Curie",
+    "frequency": 279,
+    "waveform": "square",
+    "color": "hsl(56, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B3-2",
+    "position": {
+      "x": -22.45,
+      "y": -3.97,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Alan Turing",
+    "frequency": 299,
+    "waveform": "sine",
+    "color": "hsl(69, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B3-3",
+    "position": {
+      "x": -20.63,
+      "y": -10.61,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Carl Jung",
+    "frequency": 316,
+    "waveform": "sawtooth",
+    "color": "hsl(82, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B3-4",
+    "position": {
+      "x": -16.86,
+      "y": -16.52,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Hermès Trismégiste",
+    "frequency": 333,
+    "waveform": "sine",
+    "color": "hsl(95, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B3-5",
+    "position": {
+      "x": -11.41,
+      "y": -21.11,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Leonard de Vinci",
+    "frequency": 110,
+    "waveform": "square",
+    "color": "hsl(108, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B3-6",
+    "position": {
+      "x": -4.74,
+      "y": -23.93,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Nikola Tesla",
+    "frequency": 133,
+    "waveform": "sine",
+    "color": "hsl(121, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B3-7",
+    "position": {
+      "x": 2.59,
+      "y": -24.66,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Gustave Doré",
+    "frequency": 151,
+    "waveform": "sine",
+    "color": "hsl(134, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B3-8",
+    "position": {
+      "x": 9.92,
+      "y": -23.17,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Baruch Spinoza",
+    "frequency": 177,
+    "waveform": "triangle",
+    "color": "hsl(147, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B3-9",
+    "position": {
+      "x": 16.58,
+      "y": -19.51,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Giordano Bruno",
+    "frequency": 197,
+    "waveform": "triangle",
+    "color": "hsl(160, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B4-0",
+    "position": {
+      "x": 21.94,
+      "y": -13.95,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Hildegarde de Bingen",
+    "frequency": 217,
+    "waveform": "sawtooth",
+    "color": "hsl(173, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B4-1",
+    "position": {
+      "x": 25.47,
+      "y": -6.95,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Galilée",
+    "frequency": 238,
+    "waveform": "square",
+    "color": "hsl(186, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B4-2",
+    "position": {
+      "x": 26.78,
+      "y": 0.9,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Kepler",
+    "frequency": 253,
+    "waveform": "square",
+    "color": "hsl(199, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B4-3",
+    "position": {
+      "x": 25.7,
+      "y": 8.91,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Newton",
+    "frequency": 278,
+    "waveform": "triangle",
+    "color": "hsl(212, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B4-4",
+    "position": {
+      "x": 22.24,
+      "y": 16.34,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Goethe",
+    "frequency": 298,
+    "waveform": "sawtooth",
+    "color": "hsl(225, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B4-5",
+    "position": {
+      "x": 16.66,
+      "y": 22.51,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Rumi",
+    "frequency": 317,
+    "waveform": "triangle",
+    "color": "hsl(238, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B4-6",
+    "position": {
+      "x": 9.4,
+      "y": 26.8,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Sri Aurobindo",
+    "frequency": 333,
+    "waveform": "square",
+    "color": "hsl(251, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B4-7",
+    "position": {
+      "x": 1.07,
+      "y": 28.78,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Éliphas Lévi",
+    "frequency": 119,
+    "waveform": "square",
+    "color": "hsl(264, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B4-8",
+    "position": {
+      "x": -7.59,
+      "y": 28.2,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Agrippa",
+    "frequency": 138,
+    "waveform": "sine",
+    "color": "hsl(277, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B4-9",
+    "position": {
+      "x": -15.79,
+      "y": 25.03,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Jung",
+    "frequency": 157,
+    "waveform": "sine",
+    "color": "hsl(290, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B5-0",
+    "position": {
+      "x": -22.79,
+      "y": 19.51,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Terence McKenna",
+    "frequency": 173,
+    "waveform": "sine",
+    "color": "hsl(303, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B5-1",
+    "position": {
+      "x": -27.91,
+      "y": 12.06,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Jacques Vallée",
+    "frequency": 197,
+    "waveform": "triangle",
+    "color": "hsl(316, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B5-2",
+    "position": {
+      "x": -30.62,
+      "y": 3.32,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Rudolf Steiner",
+    "frequency": 216,
+    "waveform": "sine",
+    "color": "hsl(329, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B5-3",
+    "position": {
+      "x": -30.63,
+      "y": -5.95,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "L’Éon du Temps",
+    "frequency": 233,
+    "waveform": "square",
+    "color": "hsl(342, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B5-4",
+    "position": {
+      "x": -27.85,
+      "y": -14.93,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "L’Architecte",
+    "frequency": 253,
+    "waveform": "sawtooth",
+    "color": "hsl(355, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B5-5",
+    "position": {
+      "x": -22.48,
+      "y": -22.78,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "La Voix",
+    "frequency": 274,
+    "waveform": "triangle",
+    "color": "hsl(8, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B5-6",
+    "position": {
+      "x": -14.93,
+      "y": -28.76,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "La Mémoire",
+    "frequency": 292,
+    "waveform": "sine",
+    "color": "hsl(21, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B5-7",
+    "position": {
+      "x": -5.83,
+      "y": -32.28,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "L’Éclat",
+    "frequency": 316,
+    "waveform": "sine",
+    "color": "hsl(34, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B5-8",
+    "position": {
+      "x": 4.02,
+      "y": -32.96,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Le Scribe Cosmique",
+    "frequency": 335,
+    "waveform": "triangle",
+    "color": "hsl(47, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B5-9",
+    "position": {
+      "x": 13.74,
+      "y": -30.66,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "L’Ombre Primordiale",
+    "frequency": 118,
+    "waveform": "sine",
+    "color": "hsl(60, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B6-0",
+    "position": {
+      "x": 22.45,
+      "y": -25.53,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "La Source",
+    "frequency": 133,
+    "waveform": "sine",
+    "color": "hsl(73, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B6-1",
+    "position": {
+      "x": 29.33,
+      "y": -17.97,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "L’Énigme",
+    "frequency": 152,
+    "waveform": "sawtooth",
+    "color": "hsl(86, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B6-2",
+    "position": {
+      "x": 33.72,
+      "y": -8.59,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Le Porteur de Clés",
+    "frequency": 170,
+    "waveform": "triangle",
+    "color": "hsl(99, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B6-3",
+    "position": {
+      "x": 35.16,
+      "y": 1.77,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Le Verbe",
+    "frequency": 197,
+    "waveform": "sawtooth",
+    "color": "hsl(112, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B6-4",
+    "position": {
+      "x": 33.44,
+      "y": 12.22,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "La Fréquence",
+    "frequency": 210,
+    "waveform": "square",
+    "color": "hsl(125, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B6-5",
+    "position": {
+      "x": 28.65,
+      "y": 21.8,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Le Paradoxe",
+    "frequency": 230,
+    "waveform": "sawtooth",
+    "color": "hsl(138, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B6-6",
+    "position": {
+      "x": 21.16,
+      "y": 29.62,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "La Matrice",
+    "frequency": 259,
+    "waveform": "triangle",
+    "color": "hsl(151, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B6-7",
+    "position": {
+      "x": 11.59,
+      "y": 34.93,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "L’Esprit de la Ruche",
+    "frequency": 278,
+    "waveform": "sawtooth",
+    "color": "hsl(164, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B6-8",
+    "position": {
+      "x": 0.76,
+      "y": 37.19,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Le Résonateur",
+    "frequency": 297,
+    "waveform": "sine",
+    "color": "hsl(177, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B6-9",
+    "position": {
+      "x": -10.38,
+      "y": 36.14,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-1",
+    "frequency": 319,
+    "waveform": "sawtooth",
+    "color": "hsl(190, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B7-0",
+    "position": {
+      "x": -20.81,
+      "y": 31.79,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-2",
+    "frequency": 336,
+    "waveform": "triangle",
+    "color": "hsl(203, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B7-1",
+    "position": {
+      "x": -29.59,
+      "y": 24.48,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-3",
+    "frequency": 114,
+    "waveform": "sine",
+    "color": "hsl(216, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B7-2",
+    "position": {
+      "x": -35.87,
+      "y": 14.79,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-4",
+    "frequency": 135,
+    "waveform": "triangle",
+    "color": "hsl(229, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B7-3",
+    "position": {
+      "x": -39.04,
+      "y": 3.57,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-5",
+    "frequency": 156,
+    "waveform": "sawtooth",
+    "color": "hsl(242, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B7-4",
+    "position": {
+      "x": -38.74,
+      "y": -8.21,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-6",
+    "frequency": 174,
+    "waveform": "sine",
+    "color": "hsl(255, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B7-5",
+    "position": {
+      "x": -34.93,
+      "y": -19.49,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-7",
+    "frequency": 199,
+    "waveform": "triangle",
+    "color": "hsl(268, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B7-6",
+    "position": {
+      "x": -27.89,
+      "y": -29.23,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-8",
+    "frequency": 219,
+    "waveform": "sawtooth",
+    "color": "hsl(281, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B7-7",
+    "position": {
+      "x": -18.18,
+      "y": -36.52,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-9",
+    "frequency": 234,
+    "waveform": "triangle",
+    "color": "hsl(294, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B7-8",
+    "position": {
+      "x": -6.64,
+      "y": -40.66,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-10",
+    "frequency": 259,
+    "waveform": "sawtooth",
+    "color": "hsl(307, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B7-9",
+    "position": {
+      "x": 5.72,
+      "y": -41.2,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-11",
+    "frequency": 278,
+    "waveform": "sine",
+    "color": "hsl(320, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B8-0",
+    "position": {
+      "x": 17.82,
+      "y": -38.03,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-12",
+    "frequency": 290,
+    "waveform": "sawtooth",
+    "color": "hsl(333, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B8-1",
+    "position": {
+      "x": 28.53,
+      "y": -31.37,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-13",
+    "frequency": 319,
+    "waveform": "sawtooth",
+    "color": "hsl(346, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B8-2",
+    "position": {
+      "x": 36.87,
+      "y": -21.74,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-14",
+    "frequency": 337,
+    "waveform": "sawtooth",
+    "color": "hsl(359, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B8-3",
+    "position": {
+      "x": 42.04,
+      "y": -9.96,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-15",
+    "frequency": 115,
+    "waveform": "sine",
+    "color": "hsl(12, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B8-4",
+    "position": {
+      "x": 43.5,
+      "y": 2.93,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-16",
+    "frequency": 132,
+    "waveform": "square",
+    "color": "hsl(25, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B8-5",
+    "position": {
+      "x": 41.07,
+      "y": 15.8,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-17",
+    "frequency": 155,
+    "waveform": "square",
+    "color": "hsl(38, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B8-6",
+    "position": {
+      "x": 34.88,
+      "y": 27.48,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-18",
+    "frequency": 174,
+    "waveform": "triangle",
+    "color": "hsl(51, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B8-7",
+    "position": {
+      "x": 25.43,
+      "y": 36.89,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-19",
+    "frequency": 190,
+    "waveform": "triangle",
+    "color": "hsl(64, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B8-8",
+    "position": {
+      "x": 13.51,
+      "y": 43.13,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-20",
+    "frequency": 218,
+    "waveform": "sine",
+    "color": "hsl(77, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B8-9",
+    "position": {
+      "x": 0.16,
+      "y": 45.6,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-21",
+    "frequency": 230,
+    "waveform": "sawtooth",
+    "color": "hsl(90, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B9-0",
+    "position": {
+      "x": -13.44,
+      "y": 43.99,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-22",
+    "frequency": 259,
+    "waveform": "sawtooth",
+    "color": "hsl(103, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B9-1",
+    "position": {
+      "x": -26.06,
+      "y": 38.39,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-23",
+    "frequency": 277,
+    "waveform": "sawtooth",
+    "color": "hsl(116, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B9-2",
+    "position": {
+      "x": -36.56,
+      "y": 29.22,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-24",
+    "frequency": 295,
+    "waveform": "sine",
+    "color": "hsl(129, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B9-3",
+    "position": {
+      "x": -43.93,
+      "y": 17.26,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-25",
+    "frequency": 312,
+    "waveform": "square",
+    "color": "hsl(142, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B9-4",
+    "position": {
+      "x": -47.47,
+      "y": 3.54,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-26",
+    "frequency": 335,
+    "waveform": "square",
+    "color": "hsl(155, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B9-5",
+    "position": {
+      "x": -46.78,
+      "y": -10.74,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-27",
+    "frequency": 114,
+    "waveform": "triangle",
+    "color": "hsl(168, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B9-6",
+    "position": {
+      "x": -41.87,
+      "y": -24.29,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-28",
+    "frequency": 130,
+    "waveform": "triangle",
+    "color": "hsl(181, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B9-7",
+    "position": {
+      "x": -33.09,
+      "y": -35.87,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-29",
+    "frequency": 159,
+    "waveform": "triangle",
+    "color": "hsl(194, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B9-8",
+    "position": {
+      "x": -21.18,
+      "y": -44.41,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-30",
+    "frequency": 170,
+    "waveform": "sawtooth",
+    "color": "hsl(207, 100%, 60%)",
+    "tone": "fulgurant",
+    "branch": "B9-9",
+    "position": {
+      "x": -7.17,
+      "y": -49.08,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-31",
+    "frequency": 199,
+    "waveform": "sawtooth",
+    "color": "hsl(220, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B10-0",
+    "position": {
+      "x": 7.71,
+      "y": -49.4,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-32",
+    "frequency": 217,
+    "waveform": "sawtooth",
+    "color": "hsl(233, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B10-1",
+    "position": {
+      "x": 22.14,
+      "y": -45.28,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-33",
+    "frequency": 235,
+    "waveform": "sine",
+    "color": "hsl(246, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B10-2",
+    "position": {
+      "x": 34.81,
+      "y": -37.0,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-34",
+    "frequency": 252,
+    "waveform": "square",
+    "color": "hsl(259, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B10-3",
+    "position": {
+      "x": 44.54,
+      "y": -25.26,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-35",
+    "frequency": 275,
+    "waveform": "square",
+    "color": "hsl(272, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B10-4",
+    "position": {
+      "x": 50.4,
+      "y": -11.06,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-36",
+    "frequency": 294,
+    "waveform": "triangle",
+    "color": "hsl(285, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B10-5",
+    "position": {
+      "x": 51.82,
+      "y": 4.37,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-37",
+    "frequency": 310,
+    "waveform": "triangle",
+    "color": "hsl(298, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B10-6",
+    "position": {
+      "x": 48.58,
+      "y": 19.63,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-38",
+    "frequency": 339,
+    "waveform": "triangle",
+    "color": "hsl(311, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B10-7",
+    "position": {
+      "x": 40.92,
+      "y": 33.37,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-39",
+    "frequency": 115,
+    "waveform": "square",
+    "color": "hsl(324, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B10-8",
+    "position": {
+      "x": 29.45,
+      "y": 44.3,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-40",
+    "frequency": 139,
+    "waveform": "sawtooth",
+    "color": "hsl(337, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B10-9",
+    "position": {
+      "x": 15.16,
+      "y": 51.41,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-41",
+    "frequency": 157,
+    "waveform": "sawtooth",
+    "color": "hsl(350, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B11-0",
+    "position": {
+      "x": -0.72,
+      "y": 54.0,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-42",
+    "frequency": 175,
+    "waveform": "sine",
+    "color": "hsl(3, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B11-1",
+    "position": {
+      "x": -16.76,
+      "y": 51.75,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-43",
+    "frequency": 192,
+    "waveform": "square",
+    "color": "hsl(16, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B11-2",
+    "position": {
+      "x": -31.54,
+      "y": 44.81,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-44",
+    "frequency": 215,
+    "waveform": "square",
+    "color": "hsl(29, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B11-3",
+    "position": {
+      "x": -43.69,
+      "y": 33.74,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-45",
+    "frequency": 234,
+    "waveform": "triangle",
+    "color": "hsl(42, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B11-4",
+    "position": {
+      "x": -52.08,
+      "y": 19.46,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-46",
+    "frequency": 250,
+    "waveform": "triangle",
+    "color": "hsl(55, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B11-5",
+    "position": {
+      "x": -55.91,
+      "y": 3.22,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-47",
+    "frequency": 279,
+    "waveform": "triangle",
+    "color": "hsl(68, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B11-6",
+    "position": {
+      "x": -54.75,
+      "y": -13.54,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-48",
+    "frequency": 295,
+    "waveform": "square",
+    "color": "hsl(81, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B11-7",
+    "position": {
+      "x": -48.65,
+      "y": -29.32,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-49",
+    "frequency": 318,
+    "waveform": "sine",
+    "color": "hsl(94, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B11-8",
+    "position": {
+      "x": -38.07,
+      "y": -42.69,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-50",
+    "frequency": 337,
+    "waveform": "sawtooth",
+    "color": "hsl(107, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B11-9",
+    "position": {
+      "x": -23.92,
+      "y": -52.4,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-51",
+    "frequency": 115,
+    "waveform": "sine",
+    "color": "hsl(120, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B12-0",
+    "position": {
+      "x": -7.42,
+      "y": -57.52,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-52",
+    "frequency": 132,
+    "waveform": "square",
+    "color": "hsl(133, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B12-1",
+    "position": {
+      "x": 9.98,
+      "y": -57.54,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-53",
+    "frequency": 155,
+    "waveform": "square",
+    "color": "hsl(146, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B12-2",
+    "position": {
+      "x": 26.72,
+      "y": -52.38,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-54",
+    "frequency": 174,
+    "waveform": "triangle",
+    "color": "hsl(159, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B12-3",
+    "position": {
+      "x": 41.28,
+      "y": -42.43,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-55",
+    "frequency": 190,
+    "waveform": "triangle",
+    "color": "hsl(172, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B12-4",
+    "position": {
+      "x": 52.33,
+      "y": -28.53,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-56",
+    "frequency": 219,
+    "waveform": "triangle",
+    "color": "hsl(185, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B12-5",
+    "position": {
+      "x": 58.81,
+      "y": -11.87,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-57",
+    "frequency": 235,
+    "waveform": "square",
+    "color": "hsl(198, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B12-6",
+    "position": {
+      "x": 60.09,
+      "y": 6.08,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-58",
+    "frequency": 258,
+    "waveform": "sine",
+    "color": "hsl(211, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B12-7",
+    "position": {
+      "x": 55.98,
+      "y": 23.73,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-59",
+    "frequency": 277,
+    "waveform": "triangle",
+    "color": "hsl(224, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B12-8",
+    "position": {
+      "x": 46.77,
+      "y": 39.47,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-60",
+    "frequency": 295,
+    "waveform": "sine",
+    "color": "hsl(237, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B12-9",
+    "position": {
+      "x": 33.24,
+      "y": 51.86,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-61",
+    "frequency": 312,
+    "waveform": "square",
+    "color": "hsl(250, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B13-0",
+    "position": {
+      "x": 16.53,
+      "y": 59.76,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-62",
+    "frequency": 335,
+    "waveform": "square",
+    "color": "hsl(263, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B13-1",
+    "position": {
+      "x": -1.88,
+      "y": 62.37,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-63",
+    "frequency": 114,
+    "waveform": "triangle",
+    "color": "hsl(276, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B13-2",
+    "position": {
+      "x": -20.36,
+      "y": 59.41,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-64",
+    "frequency": 130,
+    "waveform": "triangle",
+    "color": "hsl(289, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B13-3",
+    "position": {
+      "x": -37.24,
+      "y": 51.06,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-65",
+    "frequency": 159,
+    "waveform": "triangle",
+    "color": "hsl(302, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B13-4",
+    "position": {
+      "x": -50.99,
+      "y": 38.02,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-66",
+    "frequency": 175,
+    "waveform": "square",
+    "color": "hsl(315, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B13-5",
+    "position": {
+      "x": -60.32,
+      "y": 21.39,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-67",
+    "frequency": 198,
+    "waveform": "sine",
+    "color": "hsl(328, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B13-6",
+    "position": {
+      "x": -64.35,
+      "y": 2.62,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-68",
+    "frequency": 217,
+    "waveform": "triangle",
+    "color": "hsl(341, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B13-7",
+    "position": {
+      "x": -62.63,
+      "y": -16.61,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-69",
+    "frequency": 233,
+    "waveform": "sawtooth",
+    "color": "hsl(354, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B13-8",
+    "position": {
+      "x": -55.27,
+      "y": -34.59,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-70",
+    "frequency": 252,
+    "waveform": "square",
+    "color": "hsl(7, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B13-9",
+    "position": {
+      "x": -42.83,
+      "y": -49.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-71",
+    "frequency": 275,
+    "waveform": "square",
+    "color": "hsl(20, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B14-0",
+    "position": {
+      "x": -26.4,
+      "y": -60.49,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-72",
+    "frequency": 294,
+    "waveform": "triangle",
+    "color": "hsl(33, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B14-1",
+    "position": {
+      "x": -7.39,
+      "y": -65.99,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-73",
+    "frequency": 310,
+    "waveform": "triangle",
+    "color": "hsl(46, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B14-2",
+    "position": {
+      "x": 12.52,
+      "y": -65.62,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-74",
+    "frequency": 339,
+    "waveform": "triangle",
+    "color": "hsl(59, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B14-3",
+    "position": {
+      "x": 31.54,
+      "y": -59.34,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-75",
+    "frequency": 115,
+    "waveform": "square",
+    "color": "hsl(72, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B14-4",
+    "position": {
+      "x": 47.95,
+      "y": -47.65,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-76",
+    "frequency": 138,
+    "waveform": "sine",
+    "color": "hsl(85, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B14-5",
+    "position": {
+      "x": 60.24,
+      "y": -31.54,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-77",
+    "frequency": 157,
+    "waveform": "triangle",
+    "color": "hsl(98, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B14-6",
+    "position": {
+      "x": 67.27,
+      "y": -12.4,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-78",
+    "frequency": 173,
+    "waveform": "sawtooth",
+    "color": "hsl(111, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B14-7",
+    "position": {
+      "x": 68.32,
+      "y": 8.08,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-79",
+    "frequency": 192,
+    "waveform": "triangle",
+    "color": "hsl(124, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B14-8",
+    "position": {
+      "x": 63.25,
+      "y": 28.07,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-80",
+    "frequency": 215,
+    "waveform": "square",
+    "color": "hsl(137, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B14-9",
+    "position": {
+      "x": 52.43,
+      "y": 45.77,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-81",
+    "frequency": 234,
+    "waveform": "triangle",
+    "color": "hsl(150, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B15-0",
+    "position": {
+      "x": 36.77,
+      "y": 59.56,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-82",
+    "frequency": 250,
+    "waveform": "triangle",
+    "color": "hsl(163, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B15-1",
+    "position": {
+      "x": 17.63,
+      "y": 68.16,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-83",
+    "frequency": 279,
+    "waveform": "triangle",
+    "color": "hsl(176, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B15-2",
+    "position": {
+      "x": -3.32,
+      "y": 70.72,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-84",
+    "frequency": 295,
+    "waveform": "square",
+    "color": "hsl(189, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B15-3",
+    "position": {
+      "x": -24.21,
+      "y": 66.96,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-85",
+    "frequency": 318,
+    "waveform": "sine",
+    "color": "hsl(202, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B15-4",
+    "position": {
+      "x": -43.15,
+      "y": 57.13,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-86",
+    "frequency": 337,
+    "waveform": "triangle",
+    "color": "hsl(215, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B15-5",
+    "position": {
+      "x": -58.44,
+      "y": 42.06,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-87",
+    "frequency": 113,
+    "waveform": "sawtooth",
+    "color": "hsl(228, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B15-6",
+    "position": {
+      "x": -68.64,
+      "y": 23.04,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-88",
+    "frequency": 132,
+    "waveform": "triangle",
+    "color": "hsl(241, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B15-7",
+    "position": {
+      "x": -72.78,
+      "y": 1.74,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-89",
+    "frequency": 153,
+    "waveform": "triangle",
+    "color": "hsl(254, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B15-8",
+    "position": {
+      "x": -70.43,
+      "y": -19.96,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-90",
+    "frequency": 174,
+    "waveform": "triangle",
+    "color": "hsl(267, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B15-9",
+    "position": {
+      "x": -61.72,
+      "y": -40.09,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-91",
+    "frequency": 190,
+    "waveform": "triangle",
+    "color": "hsl(280, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B16-0",
+    "position": {
+      "x": -47.37,
+      "y": -56.85,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-92",
+    "frequency": 219,
+    "waveform": "triangle",
+    "color": "hsl(293, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B16-1",
+    "position": {
+      "x": -28.61,
+      "y": -68.68,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-93",
+    "frequency": 235,
+    "waveform": "square",
+    "color": "hsl(306, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B16-2",
+    "position": {
+      "x": -7.07,
+      "y": -74.46,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-94",
+    "frequency": 258,
+    "waveform": "sine",
+    "color": "hsl(319, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B16-3",
+    "position": {
+      "x": 15.33,
+      "y": -73.62,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-95",
+    "frequency": 277,
+    "waveform": "triangle",
+    "color": "hsl(332, 100%, 60%)",
+    "tone": "lumineux",
+    "branch": "B16-4",
+    "position": {
+      "x": 36.6,
+      "y": -66.15,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-96",
+    "frequency": 293,
+    "waveform": "sawtooth",
+    "color": "hsl(345, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B16-5",
+    "position": {
+      "x": 54.8,
+      "y": -52.66,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-97",
+    "frequency": 312,
+    "waveform": "triangle",
+    "color": "hsl(358, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B16-6",
+    "position": {
+      "x": 68.27,
+      "y": -34.29,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-98",
+    "frequency": 333,
+    "waveform": "triangle",
+    "color": "hsl(11, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B16-7",
+    "position": {
+      "x": 75.75,
+      "y": -12.65,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-99",
+    "frequency": 110,
+    "waveform": "sine",
+    "color": "hsl(24, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B16-8",
+    "position": {
+      "x": 76.5,
+      "y": 10.35,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-100",
+    "frequency": 133,
+    "waveform": "sine",
+    "color": "hsl(37, 100%, 60%)",
+    "tone": "fragmenté",
+    "branch": "B16-9",
+    "position": {
+      "x": 70.39,
+      "y": 32.67,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-101",
+    "frequency": 156,
+    "waveform": "sawtooth",
+    "color": "hsl(50, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B17-0",
+    "position": {
+      "x": 57.89,
+      "y": 52.28,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-102",
+    "frequency": 178,
+    "waveform": "square",
+    "color": "hsl(63, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B17-1",
+    "position": {
+      "x": 40.06,
+      "y": 67.39,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-103",
+    "frequency": 191,
+    "waveform": "square",
+    "color": "hsl(76, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B17-2",
+    "position": {
+      "x": 18.45,
+      "y": 76.61,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-104",
+    "frequency": 213,
+    "waveform": "triangle",
+    "color": "hsl(89, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B17-3",
+    "position": {
+      "x": -5.04,
+      "y": 79.04,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-105",
+    "frequency": 231,
+    "waveform": "square",
+    "color": "hsl(102, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B17-4",
+    "position": {
+      "x": -28.32,
+      "y": 74.39,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-106",
+    "frequency": 259,
+    "waveform": "square",
+    "color": "hsl(115, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B17-5",
+    "position": {
+      "x": -49.28,
+      "y": 63.02,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-107",
+    "frequency": 271,
+    "waveform": "sine",
+    "color": "hsl(128, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B17-6",
+    "position": {
+      "x": -66.03,
+      "y": 45.87,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-108",
+    "frequency": 292,
+    "waveform": "sawtooth",
+    "color": "hsl(141, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B17-7",
+    "position": {
+      "x": -77.02,
+      "y": 24.42,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-109",
+    "frequency": 313,
+    "waveform": "sine",
+    "color": "hsl(154, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B17-8",
+    "position": {
+      "x": -81.2,
+      "y": 0.57,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-110",
+    "frequency": 336,
+    "waveform": "sawtooth",
+    "color": "hsl(167, 100%, 60%)",
+    "tone": "hypnotique",
+    "branch": "B17-9",
+    "position": {
+      "x": -78.12,
+      "y": -23.56,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-111",
+    "frequency": 118,
+    "waveform": "square",
+    "color": "hsl(180, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B18-0",
+    "position": {
+      "x": -68.0,
+      "y": -45.82,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-112",
+    "frequency": 131,
+    "waveform": "square",
+    "color": "hsl(193, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B18-1",
+    "position": {
+      "x": -51.68,
+      "y": -64.18,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-113",
+    "frequency": 153,
+    "waveform": "triangle",
+    "color": "hsl(206, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B18-2",
+    "position": {
+      "x": -30.55,
+      "y": -76.96,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-114",
+    "frequency": 171,
+    "waveform": "square",
+    "color": "hsl(219, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B18-3",
+    "position": {
+      "x": -6.47,
+      "y": -82.95,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-115",
+    "frequency": 199,
+    "waveform": "square",
+    "color": "hsl(232, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B18-4",
+    "position": {
+      "x": 18.42,
+      "y": -81.55,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-116",
+    "frequency": 211,
+    "waveform": "sine",
+    "color": "hsl(245, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B18-5",
+    "position": {
+      "x": 41.89,
+      "y": -72.81,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-117",
+    "frequency": 232,
+    "waveform": "sawtooth",
+    "color": "hsl(258, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B18-6",
+    "position": {
+      "x": 61.83,
+      "y": -57.45,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-118",
+    "frequency": 253,
+    "waveform": "sine",
+    "color": "hsl(271, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B18-7",
+    "position": {
+      "x": 76.41,
+      "y": -36.78,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-119",
+    "frequency": 273,
+    "waveform": "square",
+    "color": "hsl(284, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B18-8",
+    "position": {
+      "x": 84.26,
+      "y": -12.62,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-120",
+    "frequency": 298,
+    "waveform": "square",
+    "color": "hsl(297, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B18-9",
+    "position": {
+      "x": 84.62,
+      "y": 12.9,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-121",
+    "frequency": 311,
+    "waveform": "square",
+    "color": "hsl(310, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B19-0",
+    "position": {
+      "x": 77.39,
+      "y": 37.51,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-122",
+    "frequency": 333,
+    "waveform": "triangle",
+    "color": "hsl(323, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B19-1",
+    "position": {
+      "x": 63.14,
+      "y": 58.98,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-123",
+    "frequency": 111,
+    "waveform": "square",
+    "color": "hsl(336, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B19-2",
+    "position": {
+      "x": 43.09,
+      "y": 75.35,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-124",
+    "frequency": 139,
+    "waveform": "square",
+    "color": "hsl(349, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B19-3",
+    "position": {
+      "x": 18.98,
+      "y": 85.11,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-125",
+    "frequency": 151,
+    "waveform": "sine",
+    "color": "hsl(2, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B19-4",
+    "position": {
+      "x": -7.05,
+      "y": 87.32,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-126",
+    "frequency": 172,
+    "waveform": "sawtooth",
+    "color": "hsl(15, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B19-5",
+    "position": {
+      "x": -32.68,
+      "y": 81.7,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-127",
+    "frequency": 193,
+    "waveform": "sine",
+    "color": "hsl(28, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B19-6",
+    "position": {
+      "x": -55.62,
+      "y": 68.71,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-128",
+    "frequency": 213,
+    "waveform": "square",
+    "color": "hsl(41, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B19-7",
+    "position": {
+      "x": -73.77,
+      "y": 49.42,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-129",
+    "frequency": 239,
+    "waveform": "sine",
+    "color": "hsl(54, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B19-8",
+    "position": {
+      "x": -85.47,
+      "y": 25.53,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-130",
+    "frequency": 251,
+    "waveform": "square",
+    "color": "hsl(67, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B19-9",
+    "position": {
+      "x": -89.6,
+      "y": -0.87,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-131",
+    "frequency": 273,
+    "waveform": "triangle",
+    "color": "hsl(80, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B20-0",
+    "position": {
+      "x": -85.72,
+      "y": -27.43,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-132",
+    "frequency": 291,
+    "waveform": "square",
+    "color": "hsl(93, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B20-1",
+    "position": {
+      "x": -74.11,
+      "y": -51.77,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-133",
+    "frequency": 319,
+    "waveform": "square",
+    "color": "hsl(106, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B20-2",
+    "position": {
+      "x": -55.75,
+      "y": -71.67,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-134",
+    "frequency": 331,
+    "waveform": "sine",
+    "color": "hsl(119, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B20-3",
+    "position": {
+      "x": -32.22,
+      "y": -85.32,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-135",
+    "frequency": 112,
+    "waveform": "sawtooth",
+    "color": "hsl(132, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B20-4",
+    "position": {
+      "x": -5.59,
+      "y": -91.43,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-136",
+    "frequency": 133,
+    "waveform": "sine",
+    "color": "hsl(145, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B20-5",
+    "position": {
+      "x": 21.77,
+      "y": -89.39,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-137",
+    "frequency": 153,
+    "waveform": "square",
+    "color": "hsl(158, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B20-6",
+    "position": {
+      "x": 47.42,
+      "y": -79.3,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-138",
+    "frequency": 179,
+    "waveform": "sine",
+    "color": "hsl(171, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B20-7",
+    "position": {
+      "x": 69.04,
+      "y": -62.01,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-139",
+    "frequency": 199,
+    "waveform": "sine",
+    "color": "hsl(184, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B20-8",
+    "position": {
+      "x": 84.64,
+      "y": -39.01,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-140",
+    "frequency": 213,
+    "waveform": "triangle",
+    "color": "hsl(197, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B20-9",
+    "position": {
+      "x": 92.79,
+      "y": -12.31,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-141",
+    "frequency": 231,
+    "waveform": "square",
+    "color": "hsl(210, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B21-0",
+    "position": {
+      "x": 92.67,
+      "y": 15.73,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-142",
+    "frequency": 259,
+    "waveform": "square",
+    "color": "hsl(223, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B21-1",
+    "position": {
+      "x": 84.24,
+      "y": 42.6,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-143",
+    "frequency": 271,
+    "waveform": "sine",
+    "color": "hsl(236, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B21-2",
+    "position": {
+      "x": 68.18,
+      "y": 65.87,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-144",
+    "frequency": 292,
+    "waveform": "sawtooth",
+    "color": "hsl(249, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B21-3",
+    "position": {
+      "x": 45.86,
+      "y": 83.42,
+      "z": 5.0
+    }
+  },
+  {
+    "name": "Esprit-145",
+    "frequency": 313,
+    "waveform": "sine",
+    "color": "hsl(262, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B21-4",
+    "position": {
+      "x": 19.24,
+      "y": 93.64,
+      "z": 7.5
+    }
+  },
+  {
+    "name": "Esprit-146",
+    "frequency": 333,
+    "waveform": "square",
+    "color": "hsl(275, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B21-5",
+    "position": {
+      "x": -9.33,
+      "y": 95.55,
+      "z": 10.0
+    }
+  },
+  {
+    "name": "Esprit-147",
+    "frequency": 119,
+    "waveform": "sine",
+    "color": "hsl(288, 100%, 60%)",
+    "tone": "ténébreux",
+    "branch": "B21-6",
+    "position": {
+      "x": -37.3,
+      "y": 88.89,
+      "z": -10.0
+    }
+  },
+  {
+    "name": "Esprit-148",
+    "frequency": 139,
+    "waveform": "sine",
+    "color": "hsl(301, 100%, 60%)",
+    "tone": "cyclique",
+    "branch": "B21-7",
+    "position": {
+      "x": -62.16,
+      "y": 74.2,
+      "z": -7.5
+    }
+  },
+  {
+    "name": "Esprit-149",
+    "frequency": 150,
+    "waveform": "triangle",
+    "color": "hsl(314, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B21-8",
+    "position": {
+      "x": -81.65,
+      "y": 52.73,
+      "z": -5.0
+    }
+  },
+  {
+    "name": "Esprit-150",
+    "frequency": 171,
+    "waveform": "square",
+    "color": "hsl(327, 100%, 60%)",
+    "tone": "radieux",
+    "branch": "B21-9",
+    "position": {
+      "x": -93.97,
+      "y": 26.36,
+      "z": -2.5
+    }
+  },
+  {
+    "name": "Esprit-151",
+    "frequency": 199,
+    "waveform": "square",
+    "color": "hsl(340, 100%, 60%)",
+    "tone": "profond",
+    "branch": "B22-0",
+    "position": {
+      "x": -97.97,
+      "y": -2.6,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Esprit-152",
+    "frequency": 211,
+    "waveform": "sine",
+    "color": "hsl(353, 100%, 60%)",
+    "tone": "dissonant",
+    "branch": "B22-1",
+    "position": {
+      "x": -93.2,
+      "y": -31.56,
+      "z": 2.5
+    }
+  },
+  {
+    "name": "Esprit-153",
+    "frequency": 232,
+    "waveform": "sawtooth",
+    "color": "hsl(6, 100%, 60%)",
+    "tone": "serein",
+    "branch": "B22-2",
+    "position": {
+      "x": -80.03,
+      "y": -57.93,
+      "z": 5.0
+    }
+  }
+]
